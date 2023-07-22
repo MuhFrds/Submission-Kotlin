@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\proyek-submission-mpk-main\src\main\kotlin\com\dicoding\exam\latihan1\App.kt
+C:\Users\Asus\Documents\proyek-submission-mpk-main\src\main\kotlin\com\dicoding\exam\latihan2\App.kt
+C:\Users\Asus\Documents\proyek-submission-mpk-main\src\main\kotlin\com\dicoding\exam\latihan3\App.kt
+C:\Users\Asus\Documents\proyek-submission-mpk-main\src\main\kotlin\com\dicoding\exam\latihan4\App.kt
+C:\Users\Asus\Documents\proyek-submission-mpk-main\src\main\kotlin\com\dicoding\exam\latihan5\App.kt
